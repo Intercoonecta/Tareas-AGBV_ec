@@ -1,35 +1,24 @@
+## Archivos del repositorio
+
+- `Actividad_1_Exploracion_Datos_AGBV.ipynb`: primera tarea del curso.
+- `census_avg.csv`: conjunto de datos utilizado en la actividad.
+- `Actividad_2_Graficos_Funciones_R`: Segunda tarea del curso
+- `README`: Resumen de lo realizado en la primera y segunda tarea
+
 # Actividad 1: Exploración de datos poblacionales de lobos marinos de Galápagos
-
-**Curso:** Semana Pre-Hackatón – OceanHackWeek
-
-**Lenguaje de programación:** R 4.5.1
-
-## Descripción del proyecto
-
-Este repositorio contiene una actividad introductoria de análisis de datos científicos utilizando R y JupyterLab.
 
 Se trabaja con información de censos del lobo marino de Galápagos (*Zalophus wollebaeki*), una especie endémica del archipiélago de Galápagos, Ecuador.
 
 El conjunto de datos contiene 37 registros y 25 variables relacionadas con la abundancia observada de machos, hembras, juveniles y crías, organizadas por periodos de censo.
 
-## Objetivo
 
-Aprender a importar y explorar conjuntos de datos científicos en formato CSV mediante R, como base para futuros estudios de dinámica poblacional, tendencias temporales de abundancia y relaciones con la variabilidad ambiental.
+# Actividad_2_Graficos_Funciones_R
 
-## Archivos del repositorio
+La actividad permitió aprender a crear funciones sencillas en R y utilizarlas para realizar cálculos y generar gráficos con información biológica.
 
-- `Actividad_1_Exploracion_Datos_AGBV.ipynb`: notebook de R con el código ejecutado y la descripción científica.
-- `census_avg.csv`: conjunto de datos utilizado en la actividad.
+Se elaboraron cuatro gráficos que muestran las variaciones en la abundancia total y de juveniles de los lobos marinos de Galápagos entre 2003 y 2023. En general, se observó una disminución de los promedios registrados, aunque con diferencias entre los años.
 
-## Metodología
-
-Se utilizaron funciones básicas de R:
-
-- `read.csv()`: importar el archivo CSV.
-- `head()`: visualizar las primeras seis filas.
-- `dim()`: identificar el número de observaciones y variables.
-- `names()`: consultar los nombres de las variables.
-- `str()`: explorar la estructura de los datos.
+El uso de funciones facilitó el trabajo con las distintas variables y permitió comprender cómo reutilizar código sin repetir las mismas instrucciones.
 
 ## Fuente de los datos
 
