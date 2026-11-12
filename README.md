@@ -36,7 +36,3 @@ Se utilizaron funciones básicas de R:
 Childs et al. (2026). *Pupping and yearling survival in Galápagos Sea Lions: impact of maternal investment, environmental fluctuations and population decline*. Dryad.
 
 https://doi.org/10.5061/dryad.zs7h44jr0
-
-## Proyección del análisis
-
-La actividad constituye una primera aproximación al estudio de la dinámica poblacional del lobo marino de Galápagos. En etapas posteriores se podrían explorar tendencias de abundancia y su relación con variables oceanográficas, considerando las limitaciones y características del muestreo.
