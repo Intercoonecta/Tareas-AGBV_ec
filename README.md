@@ -7,7 +7,7 @@
 
 # Actividad 1: Exploración de datos poblacionales de lobos marinos de Galápagos
 
-Se trabaja con información de censos del lobo marino de Galápagos (*Zalophus wollebaeki*), una especie endémica del archipiélago de Galápagos, Ecuador.
+Se trabajó con información de censos del lobo marino de Galápagos (*Zalophus wollebaeki*), una especie endémica del archipiélago de Galápagos, Ecuador.
 
 El conjunto de datos contiene 37 registros y 25 variables relacionadas con la abundancia observada de machos, hembras, juveniles y crías, organizadas por periodos de censo.
 
